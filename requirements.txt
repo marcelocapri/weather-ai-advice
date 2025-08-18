@@ -1,0 +1,6 @@
+Flask
+gunicorn
+google-cloud-storage
+google-cloud-secret-manager
+twilio
+google-cloud-aiplatform # Esta é a biblioteca correta para o Vertex AI/Gemini
